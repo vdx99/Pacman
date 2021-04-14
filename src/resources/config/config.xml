@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<gameWindowHeight>884</gameWindowHeight>
+<gameWindowWidth>794</gameWindowWidth>
+<lives>3</lives>
+<actualLevel>1</actualLevel>
+<maxLevel>3</maxLevel>
+<ghostSpeed>7</ghostSpeed>
+<pacSpeed>5</pacSpeed>
+<windowTitle> PAC_MAN </windowTitle>
+
+<rulesText>ZASADY GRY:
+                1. Gracz steruje pacmanem za pomocą strzałek.
+                2. Gracz przechodzi poziom po zebraniu wszystkich kulek umieszczonych na mapie
+                    Na mapie znajduja sie także diamenty ktore sa warte duzo wiecej punktow niz zwykle kulki.
+                3. Po przejściu 3 poziomów gracz odnosi ostateczne zwycięstwo.
+                4. Gracz posiada 3 próby (życia) - które może stracić, jeśli zostanie złapany przez ducha
+                   lub gdy zje czaszkę. Po każdej utracie próby trzeba ponownie zebrac kulku od nowa
+                   (mapa wraca do stanu początkowego).
+                5. Po utracie wszystkich prób gra wraca do menu głównego</rulesText>
+                6. Za przejście poziomów 1 i 2 gracz otrzymuje 1000 punktów niezależnie od uzyskanego wyniku.
+                   Za poziom 3 otrzymuje liczbe punktów uzyskaną ze zjedzonych kulek i diamentów.
+</config>

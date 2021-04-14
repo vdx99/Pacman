@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pacman_proze_2_v:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pacman_proze_2_v_jar</output-path>
+    <root id="archive" name="pacman_proze_2_v.jar">
+      <element id="module-output" name="pacman_proze_2_v" />
+    </root>
+  </artifact>
+</component>
